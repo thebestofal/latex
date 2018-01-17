@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.1.14)  17 JAN 2018 20:47
-=======
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.1.14)  17 JAN 2018 20:33
->>>>>>> nowa
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.1.14)  17 JAN 2018 21:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -573,7 +569,7 @@ Package pdftex.def Info: zdj1.jpg  used on input line 30. on input line 30.
 Package pdftex.def Info: Requested size: 207.18903pt x 85.35826pt on input line
  30.
 
-Underfull \hbox (badness 10000) in paragraph at lines 24--37
+Underfull \hbox (badness 10000) in paragraph at lines 24--38
 
  []
 
@@ -583,46 +579,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 24--37
 <zdj2.jpg, id=15, 1252.68pt x 538.01pt>
 File: zdj2.jpg Graphic file (type jpg)
 <use zdj2.jpg>
-Package pdftex.def Info: zdj2.jpg  used on input line 46. on input line 46.
+Package pdftex.def Info: zdj2.jpg  used on input line 47. on input line 47.
 Package pdftex.def Info: Requested size: 198.73172pt x 85.35826pt on input line
- 46.
+ 47.
 
-Underfull \hbox (badness 10000) in paragraph at lines 41--51
+Underfull \hbox (badness 10000) in paragraph at lines 42--53
 
  []
 
-<<<<<<< HEAD
-[2 <./zdj2.jpg>] [3] (./projekt.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
-Here is how much of TeX's memory you used:
- 2636 strings out of 494855
- 34227 string characters out of 6178960
- 90718 words of memory out of 5000000
-=======
 [2 <./zdj2.jpg>] [3] (./projekt.aux) ) 
 Here is how much of TeX's memory you used:
  2636 strings out of 494855
- 34227 string characters out of 6178960
+ 34222 string characters out of 6178960
  90726 words of memory out of 5000000
->>>>>>> nowa
  5896 multiletter control sequences out of 15000+600000
  45829 words of font info for 41 fonts, out of 8000000 for 9000
  56 hyphenation exceptions out of 8191
  41i,6n,25p,512b,273s stack positions out of 5000i,500n,10000p,200000b,80000s
-<<<<<<< HEAD
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
-ips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share
-/texmf/fonts/enc/dvips/lm/lm-mathit.enc}</usr/share/texmf/fonts/type1/public/lm
-/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi12.pfb></usr/share/texm
-f/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17
-.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/t
-ype1/public/lm/lmri12.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></
-usr/share/texmf/fonts/type1/public/lm/lmsy8.pfb>
-Output written on projekt.pdf (3 pages, 204691 bytes).
-=======
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-e
 c.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/font
 s/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}</u
@@ -632,8 +605,7 @@ re/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/l
 m/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmri12.pfb></usr/share/texmf
 /fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy8
 .pfb>
-Output written on projekt.pdf (3 pages, 204672 bytes).
->>>>>>> nowa
+Output written on projekt.pdf (3 pages, 204341 bytes).
 PDF statistics:
  54 PDF objects out of 1000 (max. 8388607)
  38 compressed objects within 1 object stream
